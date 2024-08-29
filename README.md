@@ -19,7 +19,7 @@ Data cleaning:- In this step, we checked for inconsistencies, null values and du
 
 Data preprocessing:- Here, we created two extra columns. First, we created a column named 'Age Group' and the condition for this column was " if age>=50 then the age group value is senior,  if 50>age>=30 then the age group value is Adult , else age group value is Teenager ". Next, we created 'Month' column and we extracted month from 'Date' column.
 
-Data analysis:- 
+Data analysis:- We used statistical tools and visualization techniques to understand the underlying patterns, relationships, and trends in the data.
 
 Building interactive dashboard:- We combined all the charts in a single sheet and then added 3 slicers (slicer_1 : Month, slicer_2 : Channel, slicer_3: Category)
 
